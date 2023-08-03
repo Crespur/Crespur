@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Crespur
-- 👀 I’m interested in studying CS at CSU
 - 🌱 I’m currently studying Computer Science at CU Denver
 - 💞️ I’m looking to collaborate on projects relating to Mental Health
 - 📫 How to reach me, tik tok @crespur 
